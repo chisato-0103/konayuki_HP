@@ -2,6 +2,11 @@
   margin: 0;
   padding: 0;
 }
+.container {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
 header {
   background-color: white;
   padding: 30px;
@@ -29,11 +34,6 @@ main .about {
   background-color: white;
   text-align: center;
 }
-main .about .container {
-  width: 100%;
-  max-width: 700px;
-  margin: 0 auto;
-}
 main .about h2 {
   font-size: 36px;
   margin-bottom: 20px;
@@ -44,30 +44,18 @@ main .language {
   padding: 30px;
   text-align: center;
 }
-main .language .container {
-  width: 100%;
-  max-width: 700px;
-  margin: 0 auto;
-}
 main .language h2 {
   font-size: 36px;
   margin-bottom: 20px;
 }
-main .language table {
-  margin: 0 auto;
-}
-main .language table td {
-  font-size: 20px;
-  padding: 10px 20px;
+main .language span {
+  display: inline-block;
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
 aside {
   background-color: white;
   text-align: center;
-}
-aside .container {
-  width: 100%;
-  max-width: 700px;
-  margin: 0 auto;
 }
 aside h2 {
   font-size: 36px;
