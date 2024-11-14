@@ -30,25 +30,25 @@ header nav ul li a {
 main .hero figure img {
   width: 100%;
 }
-main .about {
+main .profile {
   background-color: white;
   text-align: center;
 }
-main .about h2 {
+main .profile h2 {
   font-size: 36px;
   margin-bottom: 20px;
 }
-main .language {
+main .skill {
   background-color: black;
   color: white;
   padding: 30px;
   text-align: center;
 }
-main .language h2 {
+main .skill h2 {
   font-size: 36px;
   margin-bottom: 20px;
 }
-main .language span {
+main .skill span {
   display: inline-block;
   padding-left: 10px;
   padding-bottom: 10px;
