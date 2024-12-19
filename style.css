@@ -38,6 +38,14 @@ main .profile h2 {
   font-size: 36px;
   margin-bottom: 20px;
 }
+.text {
+  margin: 16px 0 10px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.intro {
+  padding: 10px 0 30px;
+}
 main .skill {
   background-color: black;
   color: white;
