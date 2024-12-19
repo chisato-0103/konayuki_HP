@@ -24,7 +24,7 @@ header nav ul {
 }
 header nav ul li a {
   color: black;
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 
 main .hero figure img {
