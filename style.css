@@ -46,3 +46,36 @@ header h1 {
     color: white; /* リンクの文字色を白色に */
     font-size: 25px; /* 必要に応じてサイズ調整 */
 }
+.profile{
+    text-align: center; /* 中央揃え */
+}
+.profile h2 {
+    font-size: 40px; /* 必要に応じてサイズ調整 */
+}
+.profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;  /* 円形にする */
+}
+.profile p {
+    font-size: 20px; /* 必要に応じてサイズ調整 */
+}
+.skill {
+    background-color: #000000;
+    text-align: center; /* 中央揃え */
+}
+.skill h2 {
+    font-size: 40px; /* 必要に応じてサイズ調整 */
+    color: white; /* テキストの色を白色に */
+}
+.skill img {
+    padding: 10px; 
+}
+.project {
+    text-align: center; /* 中央揃え */
+}
+footer {
+    text-align: center; /* 中央揃え */
+    background-color: #000000; /* 背景色を設定（例） */
+    color: white; /* テキストを白色に（例） */
+}
